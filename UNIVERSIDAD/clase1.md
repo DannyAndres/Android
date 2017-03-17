@@ -31,6 +31,8 @@ necesita algo para funcionar, por lo tanto le ingresamos el texto el cual quiere
 
 
 los atributos son lo que identifica al objeto y le sirven a este para realizar ciertas acciones
-las acciones son las funciones dentro de la clase, que se dedican exclusivamente a realizar algo.
+las acciones son las funciones dentro de la clase, que se dedican exclusivamente a realizar algo.	
+
+CLASE SIEMPRE SE ESCRIBE EN SINGULAR
 
 
